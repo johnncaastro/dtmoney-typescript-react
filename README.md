@@ -20,3 +20,27 @@ This project was developed with the following technologies:
 - [polished](https://polished.js.org)
 - [axios](https://github.com/axios/axios)
 - [miragejs](https://miragejs.com/)
+
+## 👷 Installation
+
+**You need to install Node.js and Yarn (or you can use NPM that comes with Node.js) and then clone the repository with the following command at the prompt:**
+
+```git clone github.com/johnnalves/dtmoney-typescript-react.git```
+
+**Install dependencies**
+
+```yarn install``` or ```npm install```
+
+## 🏃 Getting Started
+
+Run the following command in order to start the application in a development environment:
+
+```yarn start``` or ```npm run start```
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/johnnalves/dtmoney-typescript-react/blob/master/LICENSE) for more information.
+
+---
+
+Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/jonathan-castro-alves-5b27551a8/)
