@@ -39,7 +39,7 @@ Run the following command in order to start the application in a development env
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/johnnalves/dtmoney-typescript-react/blob/master/LICENSE) for more information.
+This project is under the MIT license.
 
 ---
 
