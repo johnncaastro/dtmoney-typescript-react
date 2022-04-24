@@ -43,4 +43,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/john
 
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/jonathan-castro-alves-5b27551a8/)
+Made with ♥ by John Alves :wave: [Get in touch!](https://www.linkedin.com/in/jonathan-castro-alves-5b27551a8/)
