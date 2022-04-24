@@ -15,7 +15,7 @@
 This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [Typescript][https://www.typescriptlang.org/]
+- [Typescript](https://www.typescriptlang.org/)
 - [styled-components](https://www.styled-components.com/)
 - [polished](https://polished.js.org)
 - [axios](https://github.com/axios/axios)
