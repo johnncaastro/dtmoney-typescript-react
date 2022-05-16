@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 **Install dependencies**
 
-```yarn install``` or ```npm install```
+```yarn add``` or ```npm install```
 
 ## 🏃 Getting Started
 
